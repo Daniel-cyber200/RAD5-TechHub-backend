@@ -1,5 +1,4 @@
-
-       let i = 0;
+      let i = 0;
 let count = 0;
 
 while (i <= 10) {
